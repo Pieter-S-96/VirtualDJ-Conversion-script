@@ -1,0 +1,9 @@
+/tests/*
+!/tests/RUNTESTSINTHISFOLDER
+*.xml
+
+*.pyc
+*_pycache_*
+
+*.vscode
+*.zip
